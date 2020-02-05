@@ -1,4 +1,4 @@
-package cs146F19.Li.Project1;
+package CLL_and_DataShuf;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
